@@ -1,0 +1,23 @@
+p {
+    display: block;
+    width: 750px;
+}
+
+.prep {
+    margin-bottom: 40px;
+
+}
+
+.commNotes {
+    margin-bottom: 10px;
+}
+
+p .great {
+    padding-bottom: 0px;
+    margin-bottom: 0;
+}
+
+p .looking {
+    margin-top: 0px !important;
+    padding-top: 0;
+}
